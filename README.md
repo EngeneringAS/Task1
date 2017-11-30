@@ -4,3 +4,5 @@
 #in the EX1 folder there the other files we build and used for the task
 #in the tasting folder where the testing and the input files we make and use.
 #we hope to learn more about Development and maintaining projects
+
+our report for the tesk is in the report file.
